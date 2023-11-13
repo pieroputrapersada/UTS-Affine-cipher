@@ -46,4 +46,4 @@ Password yang telah di enkripsi di ambil dari databse lalu di dekripsi agar bisa
 
 ### Output 
 
-![alt text](asset/hasil.png)
+![alt text](asset/Halaman.png)
